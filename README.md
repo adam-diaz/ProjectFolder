@@ -4,4 +4,4 @@
 *top down acs with the colling system*
 **okay now lets get serious**
 1.Types, Variables, Logic, Comparison Operators.
-1. Control flow
+2. Control flow
